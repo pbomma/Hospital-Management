@@ -1,6 +1,8 @@
 # An Electronic Medical Record for an Outpatient Clinic
 
-• This project is an OLTP database design project for an outpatient clinic using database design standards and modeling procedures 
+This project is an OLTP database design project for an outpatient clinic using database design standards and modeling procedures 
+
+
 • The Database Management System for an Outpatient Clinic can efficiently store, retrieve, manipulate, and query records 
 • Coded Triggers and Stored Procedures for maintaining data integrity, and ease of usage
 • Authentication and Role based access control are implemented to all the data tables
